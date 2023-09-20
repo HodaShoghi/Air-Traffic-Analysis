@@ -4,7 +4,7 @@
 This data analysis project explores air traffic data from 2018 and 2019, providing valuable insights for investment decisions regarding three major airline stocks. The project utilizes SQL queries for initial data analysis (Part 1) and Tableau for data visualization and interactive exploration (Part 2). The goal is to provide actionable insights for potential investors while presenting the analysis in a professional and informative manner.
 
 ## Data Description
-
+Data originally sourced from the open data portal at the [Bureau of Transportation Statistics (BTS) website](https://www.transtats.bts.gov/DatabaseInfo.asp?QO_VQ=EFD&DB_URL=). To load the necessary data required for this project, download the data file from [here](https://api.brainstation.io/content/link/1afJIspkO7M-nOfsU9we142pyocSWWV2x) 
 The project uses two main tables: flights and airports. Here's a brief overview of the data:
 
 flights table contains flight information, including flight date, airline details, departure and arrival information, and flight performance metrics.
